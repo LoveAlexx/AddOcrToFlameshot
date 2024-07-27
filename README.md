@@ -1,5 +1,5 @@
 # Adding OCR To flameshot / How to copy text from videos / How to copy unselectable text / Screenshot OCR
-How to add OCR fucntionality to flameshot, without needing to change the program at all. You can also use any other screenshot and clipboard program! Just replace xclip and flameshot with whatever you use.
+How to add OCR fucntionality to flameshot, without needing to change the program at all. You can also use any other screenshot and clipboard program! Just replace xclip and/or flameshot with whatever you use.
 
 **Showcase**:
 
